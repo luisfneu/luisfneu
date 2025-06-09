@@ -25,4 +25,4 @@ Welcome to my GitHub profile! I'm passionate about software development, open so
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=luisfneu&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=luisfneu&theme=light&hide_border=true)
