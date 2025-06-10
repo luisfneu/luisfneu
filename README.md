@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Luis Fernando Neu
+# I'm Luis Fernando Neu
 
 Welcome to my GitHub profile! I'm passionate about software development, open source, and creating innovative solutions.
 
