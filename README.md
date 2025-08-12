@@ -16,6 +16,9 @@ Welcome to my GitHub profile! I'm passionate about software development, open so
 - App automation
 - DevOps automation
 - Python Coding
+- Java
+- PrestoDB
+
 
 ## 📫 How to reach me
 
